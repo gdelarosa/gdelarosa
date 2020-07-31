@@ -1,3 +1,3 @@
-![image](https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif)
+![intro](https://media.giphy.com/media/3gS6dPa2YpUlNhKg1S/giphy.gif)
 
 
