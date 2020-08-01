@@ -22,3 +22,6 @@ My interests outside of iOS include:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdelarosa)](https://github.com/gdelarosa/github-readme-stats)
 
 
+![Visitor Count](https : //profile-counter.glitch.me/gdelarosa/count.svg)
+
+
