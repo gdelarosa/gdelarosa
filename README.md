@@ -8,7 +8,7 @@
 
 I'm Gina. Born, raised, & quarantine chillin in California, USA ☀️ 🇺🇸.
 
-###My interests outside of iOS include: 
+My interests outside of iOS include: 
 - Making beef jerky 🤠
 - Raging on Xbox playing Modern Warfare 👾
 - Pretending to be a bbq pit master 👩🏽‍🍳
