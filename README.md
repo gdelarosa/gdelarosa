@@ -1,4 +1,4 @@
-# What's up? 👻
+# What's up? 
 
 
 ![giphy](https://user-images.githubusercontent.com/9616943/88987653-78f79500-d28b-11ea-92d4-d46a15eda182.gif)
@@ -6,12 +6,12 @@
 
 # About Me 🤧
 
-I'm Gina. Born, raised, & quarantine chillin in California, USA ☀️ 🇺🇸.
+I'm Gina. Born, raised, & quarantine chillin in California, USA ☀️ 🇺🇸. I'
 
 My interests outside of iOS include: 
 - Making beef jerky 🤠
 - Raging on Xbox playing Modern Warfare 👾
-- Pretending to be a bbq pit master 👩🏽‍🍳
+- Pretending to be a bbq pit master 🥩
 - Re-watching Adventure Time episodes 🌈
 
 
