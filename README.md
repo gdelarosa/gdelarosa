@@ -6,7 +6,7 @@
 
 # About Me 🤧
 
-I'm Gina. Born, raised, & quarantine chillin in California, USA ☀️ 🇺🇸. I'
+I'm Gina. Born, raised, & quarantine chillin in California, USA ☀️ 🇺🇸. 
 
 My interests outside of iOS include: 
 - Making beef jerky 🤠
