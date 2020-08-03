@@ -6,7 +6,7 @@
 
 # About Me 🤧
 
-I'm Gina. Currently quarantine chillin in California, USA ☀️ 🇺🇸. I build and work on apps with Swift every day. My bffs are Google search & StackOverflow. Off the tech clock I'm most likely doing one of the things below: 
+I'm Gina. Currently quarantine chillin in California, USA ☀️ 🇺🇸. I build and work on apps with Swift every day. My tech bffs are Google search & StackOverflow. Off the technical clock I'm most likely doing one of the things below: 
 
 - Making beef jerky 🤠
 - Raging on Xbox playing Modern Warfare 👾
