@@ -6,12 +6,12 @@
 
 # About Me 👩🏼‍🎤
 
-I'm Gina. Currently quarantine chillin in California, USA ☀️ 🇺🇸. I build and work on apps with Swift every day. My tech bffs are Google search & StackOverflow. Off the technical clock I'm most likely doing one of the things below: 
+I'm Gina. Currently quarantine chillin in California 🌴 ☀️ 🇺🇸. I build and work on apps with Swift every day. My tech bffs are Google search & StackOverflow. Off the technical clock I'm doing one of my hobbies below: 
 
-- Making beef jerky in my kitchen 🤠
+- Making killer beef jerky 🤠
 - Waiting to play ice hockey again 🏒
 - Making pew pew sounds while playing Modern Warfare 💥
-- Listening to music and or a podcast 📖
+- Listening to shrills on Spotify and or a podcast 📖
 - Pretending to be a bbq pit master 🥩
 - Re-watching Adventure Time episodes 🌈
 
