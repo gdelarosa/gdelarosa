@@ -6,9 +6,8 @@
 
 # About Me 🤧
 
-I'm Gina. Born, raised, & quarantine chillin in California, USA ☀️ 🇺🇸. 
+I'm Gina. Currently quarantine chillin in California, USA ☀️ 🇺🇸. I build and work on apps with Swift every day. My bffs are Google search & StackOverflow. Off the tech clock I'm most likely doing one of the things below: 
 
-My interests outside of iOS include: 
 - Making beef jerky 🤠
 - Raging on Xbox playing Modern Warfare 👾
 - Pretending to be a bbq pit master 🥩
