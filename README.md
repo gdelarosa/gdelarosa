@@ -8,9 +8,9 @@
 
 I'm Gina. Currently quarantine chillin in California, USA ☀️ 🇺🇸. I build and work on apps with Swift every day. My tech bffs are Google search & StackOverflow. Off the technical clock I'm most likely doing one of the things below: 
 
-- Making beef jerky 🤠
-- Playing ice hockey 🏒
-- Raging on Xbox playing Modern Warfare 👾
+- Making beef jerky in my kitchen 🤠
+- Waiting to play ice hockey again 🏒
+- Making pew pew sounds while playing Modern Warfare 💥
 - Listening to music and or a podcast 📖
 - Pretending to be a bbq pit master 🥩
 - Re-watching Adventure Time episodes 🌈
