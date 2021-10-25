@@ -9,7 +9,7 @@
 I'm Gina. I have Swift and iOS apps on my mind everyday. My tech bffs are Google search & Stackoverflow. Off the technical clock I'm doing one of my hobbies below: 
 
 - Making killer beef jerky 🤠
-- Waiting to play ice hockey again 🏒
+- Playing ice hockey 🏒
 - Working on my bbq pit master skills 🥩
 - Re-watching Adventure Time episodes 🌈
 
