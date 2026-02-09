@@ -5,7 +5,6 @@
 
 
 # About Me 👩🏼‍🎤
-
-I have Swift and iOS apps on my mind everyday. Dumped StackOverflow for Claud. 
+Dumped StackOverflow for Claud. 
 
 
